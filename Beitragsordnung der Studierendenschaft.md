@@ -62,9 +62,9 @@ Die festgelegten Regelungen zum Erlass und zur Rückerstattung des Semesterticke
 
 ## § 6 Bestätigung Semesterticketbeitrag
 
-(1) Ein neuer Semesterticketvertrag muss durch eine Urabstimmung oder durch Zweidrittelmehrheit der Mitglieder des Studierendenparlaments bestätigt werden.
+(1) Der jeweils gültige Semesterticketvertrag soll durch eine Urabstimmung bestätigt werden. Das Studierendenparlament kann mit Zweidrittelmehrheit seiner Mitglieder den Semesterticketbeitrag für einzelne Semester bestätigen.
 
-(2) Ist der aktuell gültige Semesterticketvertrag bestätigt worden, so gilt als Semesterticketbeitrag i.S.v. § 2 Abs. 2 dieser Ordnung der im Semesterticketvertrag für das jeweilige Semester vereinbarte Preis.
+(2) Ist der aktuell gültige Semesterticketvertrag oder -beitrag entsprechend Abs. 1 bestätigt worden bestätigt worden, so gilt als Semesterticketbeitrag i.S.v. § 2 Abs. 2 dieser Ordnung der im Semesterticketvertrag für das jeweilige Semester vereinbarte Preis.
 
 
 ## § 7 Inkrafttreten / Außerkrafttreten
