@@ -1,8 +1,8 @@
 # Beitragsordnung der Studierendenschaft der Universität Potsdam
-## für das Sommersemester 2018 und das Wintersemester 2018/19
+
 **Vom 30. Mai 2017**
 
-Das Studierendenparlament der Universität Potsdam hat gemäß § 16 Abs. 4 des Gesetzes über die Hochschulen des Landes Brandenburg (Brandenburgisches Hochschulgesetz – BbgHG) in der Fassung vom 28. April 2014 (GVBl. I/14, [Nr. 18]), zuletzt geändert durch Artikel 2 des Gesetzes vom 1. Juli 2015 (GVBl. I/15, [Nr. 18]), auf seiner Sitzung am 30. Mai 2017 folgende neue Beitragsordnung für das Sommersemester 2018 und das Wintersemester 2018/19 beschlossen:
+Das Studierendenparlament der Universität Potsdam hat gemäß § 16 Abs. 4 des Gesetzes über die Hochschulen des Landes Brandenburg (Brandenburgisches Hochschulgesetz – BbgHG) in der Fassung vom 28. April 2014 (GVBl. I/14, [Nr. 18]), zuletzt geändert durch Artikel 2 des Gesetzes vom 1. Juli 2015 (GVBl. I/15, [Nr. 18]), auf seiner Sitzung am 30. Mai 2017 folgende neue Beitragsordnung beschlossen:
 
 ----------
 
@@ -57,14 +57,14 @@ durch die Universität beurlaubt sind.
 
 ## § 5 Erlass und Rückerstattung des Semesterticketbeitrages
 
-Die festgelegten Regelungen zum Erlass und zur Rückerstattung des Semesterticketbeitrages unterliegen den Regelungen und Bestimmungen des bestätigten Semesterticketvertrages und der Ordnung zum Potsdamer Semesterticket und zum Sozialfonds der Studierendenschaft.
+Die festgelegten Regelungen zum Erlass und zur Rückerstattung des Semesterticketbeitrages unterliegen den Regelungen und Bestimmungen des Semesterticketvertrages und der Ordnung zum Potsdamer Semesterticket und zum Sozialfonds der Studierendenschaft.
 
 
 ## § 6 Bestätigung Semesterticketbeitrag
 
 (1) Der jeweils gültige Semesterticketvertrag soll durch eine Urabstimmung bestätigt werden. Das Studierendenparlament kann mit Zweidrittelmehrheit seiner Mitglieder den Semesterticketbeitrag für einzelne Semester bestätigen.
 
-(2) Ist der aktuell gültige Semesterticketvertrag oder -beitrag entsprechend Abs. 1 bestätigt worden bestätigt worden, so gilt als Semesterticketbeitrag i.S.v. § 2 Abs. 2 dieser Ordnung der im Semesterticketvertrag für das jeweilige Semester vereinbarte Preis.
+(2) Ist der aktuell gültige Semesterticketvertrag oder -beitrag entsprechend Abs. 1 bestätigt worden, so gilt als Semesterticketbeitrag i.S.v. § 2 Abs. 2 dieser Ordnung der im Semesterticketvertrag für das jeweilige Semester vereinbarte Preis.
 
 
 ## § 7 Inkrafttreten / Außerkrafttreten
